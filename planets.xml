@@ -7,6 +7,7 @@
   <planet>
     <name>Mercury</name>
     <diameter>4880</diameter>
+    <mass>0,055</mass>
     <orbit>57910000</orbit>
     <texture>mercury.jpg</texture>
     <orbitalspeed>47.87</orbitalspeed>
