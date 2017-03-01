@@ -7,7 +7,7 @@ raiz = doc.getroot()
 planets = raiz.findall('planet')
 
 print len(planets)
-print raiz.find("name")
+print raiz.find("name").text
 
 for planet in planets:
     print planet.find("name").text

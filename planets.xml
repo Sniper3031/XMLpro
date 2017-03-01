@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<sun xmlns="http://tempuri.org/XMLSchema.xsd">
+<sun>
 	<name>The Sun</name>
 	<diameter>192984</diameter>
 	<texture>sun.jpg</texture>
