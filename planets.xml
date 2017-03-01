@@ -7,7 +7,7 @@
 	<planet>
 		<name>Mercury</name>
 		<diameter>4880</diameter>
-		<mass>0,055</mass>
+		<mass>0.055</mass>
 		<orbit>57910000</orbit>
 		<texture>mercury.jpg</texture>
 		<orbitalspeed>47.87</orbitalspeed>
@@ -20,7 +20,7 @@
 		<name>Venus</name>
 		<diameter>12103.6</diameter>
 		<orbit>108200000</orbit>
-		<mass>0,815</mass>
+		<mass>0.815</mass>
 		<texture>venus.jpg</texture>
 		<orbitalspeed>35.02</orbitalspeed>
 		<inclination>3.39471</inclination>
@@ -51,7 +51,7 @@
 	<planet>
 		<name>Mars</name>
 		<diameter>6794</diameter>
-		<mass>0,107</mass>
+		<mass>0.107</mass>
 		<orbit>227940000</orbit>
 		<texture>mars.jpg</texture>
 		<orbitalspeed>24.077</orbitalspeed>
@@ -61,7 +61,7 @@
 		<moon>
 			<name>Phobos</name>
 			<diameter>22.2</diameter>
-			<mass>0,000000002</mass>
+			<mass>0.000000002</mass>
 			<orbit>9378</orbit>
 			<orbitalspeed>2.138</orbitalspeed>
 		</moon>
@@ -77,7 +77,7 @@
 	<planet>
 		<name>Jupiter</name>
 		<diameter>142984</diameter>
-		<mass>332,946</mass>
+		<mass>332.946</mass>
 		<orbit>778330000</orbit>
 		<texture>jupiter.jpg</texture>
 		<orbitalspeed>13.07</orbitalspeed>
@@ -103,7 +103,7 @@
 	<planet>
 		<name>Saturn</name>
 		<diameter>120536</diameter>
-		<mass>95,16</mass>
+		<mass>95.16</mass>
 		<orbit>1429400000</orbit>
 		<texture>saturn.jpg</texture>
 		<orbitalspeed>9.69</orbitalspeed>

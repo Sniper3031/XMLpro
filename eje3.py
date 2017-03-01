@@ -10,6 +10,7 @@ moons = raiz.findall('planet/moon')
 
 cad1 = raw_input("Nombre astro:")
 
+
 for planet in planets:
     if cad1 == planet.find("name").text:
         print "Diametro:", planet.find("diameter").text
